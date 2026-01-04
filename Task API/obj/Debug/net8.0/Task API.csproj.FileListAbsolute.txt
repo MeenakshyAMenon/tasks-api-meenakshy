@@ -1,0 +1,36 @@
+C:\dotnet\Task API\Task API\bin\Debug\net8.0\appsettings.Development.json
+C:\dotnet\Task API\Task API\bin\Debug\net8.0\appsettings.json
+C:\dotnet\Task API\Task API\bin\Debug\net8.0\Task API.staticwebassets.endpoints.json
+C:\dotnet\Task API\Task API\bin\Debug\net8.0\Task API.exe
+C:\dotnet\Task API\Task API\bin\Debug\net8.0\Task API.deps.json
+C:\dotnet\Task API\Task API\bin\Debug\net8.0\Task API.runtimeconfig.json
+C:\dotnet\Task API\Task API\bin\Debug\net8.0\Task API.dll
+C:\dotnet\Task API\Task API\bin\Debug\net8.0\Task API.pdb
+C:\dotnet\Task API\Task API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\dotnet\Task API\Task API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\dotnet\Task API\Task API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\dotnet\Task API\Task API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\dotnet\Task API\Task API\obj\Debug\net8.0\Task API.csproj.AssemblyReference.cache
+C:\dotnet\Task API\Task API\obj\Debug\net8.0\Task API.GeneratedMSBuildEditorConfig.editorconfig
+C:\dotnet\Task API\Task API\obj\Debug\net8.0\Task API.AssemblyInfoInputs.cache
+C:\dotnet\Task API\Task API\obj\Debug\net8.0\Task API.AssemblyInfo.cs
+C:\dotnet\Task API\Task API\obj\Debug\net8.0\Task API.csproj.CoreCompileInputs.cache
+C:\dotnet\Task API\Task API\obj\Debug\net8.0\Task API.MvcApplicationPartsAssemblyInfo.cs
+C:\dotnet\Task API\Task API\obj\Debug\net8.0\Task API.MvcApplicationPartsAssemblyInfo.cache
+C:\dotnet\Task API\Task API\obj\Debug\net8.0\scopedcss\bundle\Task API.styles.css
+C:\dotnet\Task API\Task API\obj\Debug\net8.0\staticwebassets.build.json
+C:\dotnet\Task API\Task API\obj\Debug\net8.0\staticwebassets.development.json
+C:\dotnet\Task API\Task API\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\dotnet\Task API\Task API\obj\Debug\net8.0\staticwebassets\msbuild.Task API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\dotnet\Task API\Task API\obj\Debug\net8.0\staticwebassets\msbuild.Task API.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\dotnet\Task API\Task API\obj\Debug\net8.0\staticwebassets\msbuild.build.Task API.props
+C:\dotnet\Task API\Task API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Task API.props
+C:\dotnet\Task API\Task API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Task API.props
+C:\dotnet\Task API\Task API\obj\Debug\net8.0\staticwebassets.pack.json
+C:\dotnet\Task API\Task API\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\dotnet\Task API\Task API\obj\Debug\net8.0\Task API.csproj.Up2Date
+C:\dotnet\Task API\Task API\obj\Debug\net8.0\Task API.dll
+C:\dotnet\Task API\Task API\obj\Debug\net8.0\refint\Task API.dll
+C:\dotnet\Task API\Task API\obj\Debug\net8.0\Task API.pdb
+C:\dotnet\Task API\Task API\obj\Debug\net8.0\Task API.genruntimeconfig.cache
+C:\dotnet\Task API\Task API\obj\Debug\net8.0\ref\Task API.dll
